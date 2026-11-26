@@ -1,4 +1,4 @@
-### 你好，我是 Convallaria-majalis1
+### 你好，我是 Convallaria-majalis1，你也可以叫我铃兰
 
 Python 自动化 / 数据处理方向。专注把重复的表格工作，做成点一下就完成的小工具。
 
